@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nirabpaudel
-- 👀 I’m interested in a lot of things. But my key interest lies in just learning and exploring new things. To be specific, I really like the idea of web designing and animation. I also like songwriting and music.
+- 👀 I’m interested in a lot of things. But my key interest lies in just learning and exploring new things. To be specific, I really like web designing and animation. I also like songwriting and music.
 - 🌱 I’m currently learning HTML/CSS/JS and SQL. While writing this, I'm in my final year of high school.
 - 💞️ I’m looking to collaborate on anything that involves designing and arts. Hit me up.
 - 📫 You can reach me by mail: nirabpaudel@pm.me
